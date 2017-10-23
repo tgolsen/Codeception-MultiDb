@@ -1,6 +1,6 @@
 {
-    "name": "redmatter/codeception-multidb",
-    "description": "Switch between multiple databases in a Codeception Test",
+    "name": "tgolsen/codeception-multidb",
+    "description": "Clone of redmatter/codeception-multidb, use that",
     "type": "library",
     "require": {
         "php": ">=5.4.0",
